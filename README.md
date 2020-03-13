@@ -6,11 +6,11 @@ Edgar Alexis
 Angel Daniel Velazquez Gomez,
 Maricruz Gonzalez Gabriel
 Sinai Cortes B
-Jose Carlos Mariano Gil
-Karla Sofia Martinez Garcia :3
+Jose carlos Mariano Gil
 Federico Climaco Bartolo
 Arturo Santiago Ponce Rosas
 Ulises Porcayo Carbajal
 Luis Gerardo Porcayo Marcos
 Cesar Primero Huerta
 Ulises Porcayo Carbajal
+Luis Angel Herndandez Nava
