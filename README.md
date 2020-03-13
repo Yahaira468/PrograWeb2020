@@ -1,3 +1,3 @@
 # PrograWeb2020
 Respositorio de prueba
-Karla Sofia Martinez Garcia :3
+Karla Sofia Martinez Garcia
