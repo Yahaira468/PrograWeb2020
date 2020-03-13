@@ -1,6 +1,7 @@
 # PrograWeb2020
 Respositorio de prueba
 Yahaira Guadalupe Salgado Martinez
+Maricruz Gonzalez Gabriel
 Sinai Cortes B
 Jose Carlos Mariano Gil
 Karla Sofia Martinez Garcia :3
