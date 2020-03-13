@@ -2,6 +2,9 @@
 Respositorio de prueba
 (Erick Avila Tule)
 Karla Sofia Martinez Garcia :3
+Edgar Alexis
+Angel Daniel Velazquez Gomez,
+Maricruz Gonzalez Gabriel
 Sinai Cortes B
 Jose Carlos Mariano Gil
 Karla Sofia Martinez Garcia :3
@@ -11,4 +14,3 @@ Ulises Porcayo Carbajal
 Luis Gerardo Porcayo Marcos
 Cesar Primero Huerta
 Ulises Porcayo Carbajal
-
