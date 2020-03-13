@@ -1,6 +1,11 @@
 # PrograWeb2020
 Respositorio de prueba
 Ady Viveros Agapito
+Yahaira Guadalupe
+Edgar Alexis
+Angel Daniel Velazquez Gomez,
+Maricruz Gonzalez Gabriel
+Sinai Cortes B
 Jose Carlos Mariano Gil
 Karla Sofia Martinez Garcia :3
 Federico Climaco Bartolo
@@ -9,4 +14,3 @@ Ulises Porcayo Carbajal
 Luis Gerardo Porcayo Marcos
 Cesar Primero Huerta
 Ulises Porcayo Carbajal
-
