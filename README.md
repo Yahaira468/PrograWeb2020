@@ -1,5 +1,6 @@
 # PrograWeb2020
 Respositorio de prueba
+Angelica Gomez Vicente
 (Erick Avila Tule)
 Karla Sofia Martinez Garcia :3
 Ady Viveros Agapito
@@ -16,4 +17,3 @@ Luis Gerardo Porcayo Marcos
 Cesar Primero Huerta
 Ulises Porcayo Carbajal
 Luis Angel Herndandez Nava
-
