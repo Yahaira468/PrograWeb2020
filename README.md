@@ -1,6 +1,7 @@
 # PrograWeb2020
 Respositorio de prueba
 Maricruz Gonzalez Gabriel
+Jose Carlos Mariano Gil
 Karla Sofia Martinez Garcia :3
 Federico Climaco Bartolo
 Arturo Santiago Ponce Rosas
