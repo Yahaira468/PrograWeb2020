@@ -2,6 +2,8 @@
 Respositorio de prueba
 (Erick Avila Tule)
 Karla Sofia Martinez Garcia :3
+Ady Viveros Agapito
+Yahaira Guadalupe
 Edgar Alexis
 Angel Daniel Velazquez Gomez,
 Maricruz Gonzalez Gabriel
