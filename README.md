@@ -1,6 +1,7 @@
 # PrograWeb2020
 Respositorio de prueba
-Sinai Cortes
+Sinai Cortes B
+Jose Carlos Mariano Gil
 Karla Sofia Martinez Garcia :3
 Federico Climaco Bartolo
 Arturo Santiago Ponce Rosas
